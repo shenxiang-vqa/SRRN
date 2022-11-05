@@ -1,9 +1,3 @@
-# --------------------------------------------------------
-# mcan-vqa (Deep Modular Co-Attention Networks)
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Yuhao Cui https://github.com/cuiyuhao1996
-# --------------------------------------------------------
-
 from cfgs.base_cfgs import Cfgs
 from core.exec import Execution
 import argparse, yaml
