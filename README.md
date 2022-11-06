@@ -6,7 +6,7 @@ An effective spatial relationship reasoning network model is proposed, which can
 
 
 ### Note
-The research in this paper is based on the MCAN (https://github.com/MILVLG/mcan-vqa) model. The core code is already in the core file.
+The research in this paper is based on the [MCAN](https://github.com/MILVLG/mcan-vqa) model. The core code is already in the core file.
 
 ## Prerequisites
 
